@@ -1,22 +1,15 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+I improved the user interface of the product so that it is usable by a normal user. I also added some feature enhancements.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+Definitely add CSS support, because I found out through talking to a teacher that CSS is more confusing to students than HTML.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+Hopefully I'll be able to write a CSS parser.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+I showed this to a teacher at my high school, and she gave me some suggestions.
